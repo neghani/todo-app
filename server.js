@@ -8,6 +8,5 @@ app.get('/',function(req,res){
 })
 
 app.listen(port,function (){
-
-	console.log("server is running..")
+	console.log("server is running..");
 })
